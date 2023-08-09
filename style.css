@@ -24,29 +24,30 @@ body , html{
 
 }
 #two{
-width: 50%;
-margin: auto;
-height: 80%;
+width: 45%;
+margin: 0px auto;
+height: 79%;
 text-align: center;
+
 }
 
 #green{
     width: 69%;
-    height: 57%;
+    height: 55%;
     background-color: rgb(102, 210, 75);
    padding-top: 3%;
    float: left;
-   margin: 2px 0px 2px 0px;
+   margin: 1% 0%;
    padding-top: 20%;
 
 }
 #voilet{
     width: 30%;
-    height: 57%;
+    height: 55%;
     background-color: rgb(213, 108, 213);
    padding: auto;
    float: right;
-   margin: 2px 0px 2px 0px;
+   margin: 1% 0%;
    padding-top: 20%;
 
 }
@@ -55,17 +56,18 @@ text-align: center;
     height: 40%;
     background-color: orange;
    padding-top: 15%;
-   margin: 1px;
+   margin-top: 1%;
    float: left;
-   margin: 2px;
+   margin-bottom: 0%;
+
 }#orange2{
     width: 48.5%;
     height: 40%;
     background-color: orange;
    padding-top: 15%;
-   margin: 1px;
+   margin-top: 1%;
    float: right;
-   margin: 2px;
+   margin-bottom: 0%;
 }
 #footer{
     width: 100%;
